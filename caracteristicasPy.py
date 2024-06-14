@@ -1,6 +1,7 @@
 '''
 Lenguaje de programación
 **Sintaxis en Python**
+print('Sintaxis en Python')
 La sintaxis en un lenguaje de programación se refiere a las reglas que 
 definen la estructura correcta de las secuencias de símbolos y palabras clave 
 que son legalmente correctas en ese lenguaje. Es análoga a la gramática en 
